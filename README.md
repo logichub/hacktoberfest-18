@@ -35,3 +35,6 @@ git push origin my-awesome-branch
 ```
 
 - Create a new pull request from your forked repository
+
+
+### Happy Hacking!
